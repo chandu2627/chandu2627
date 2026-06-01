@@ -1,3 +1,11 @@
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=chandu2627&label=Profile%20views&color=0e75b6&style=flat" alt="chandu2627" />
+
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Chandu+Manikanta+👋;Aspiring+Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python" alt="Typing SVG" />
+</h1>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -28,7 +36,6 @@
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=chandu2627&show_icons=true&theme=tokyonight" />
 </p>
@@ -39,60 +46,21 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu2627&layout=compact&theme=tokyonight" />
 </p>
 
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-
-
 ---
 
 ## 🏆 GitHub Trophies
-
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=chandu2627&theme=darkhub" />
 </p>
 
-  
-
-
-
-
 ---
 
 ## 🤝 Let's Connect
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polnati-chandu-manikanta-narasimha-0b4802259)
-
-  
-    
-  
-  
-    
-  
-
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandu2627)
 
 ---
 
-
-
-⭐ From chandu2627 — Data tells stories. I help tell them.
+<p align="center">⭐ From <a href="https://github.com/chandu2627">chandu2627</a> — Data tells stories. I help tell them.</p>
