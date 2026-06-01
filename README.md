@@ -29,7 +29,15 @@
 ## 📈 GitHub Stats
 
 
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chandu2627&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandu2627&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu2627&layout=compact&theme=tokyonight" />
+</p>
 
   
 
@@ -57,7 +65,9 @@
 ## 🏆 GitHub Trophies
 
 
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chandu2627&theme=darkhub" />
+</p>
 
   
 
@@ -69,7 +79,7 @@
 ## 🤝 Let's Connect
 
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polnati-chandu-manikanta-narasimha-0b4802259)
 
   
     
