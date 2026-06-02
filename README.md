@@ -43,10 +43,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandu2627&theme=nord&column=7" />
-</p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chandu2627&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 
 ## 🤝 Let's Connect
