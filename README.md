@@ -37,21 +37,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandu2627&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandu2627&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandu2627&layout=compact&theme=tokyonight"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu2627&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandu2627&theme=darkhub&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=chandu2627&theme=nord&column=7" />
 </p>
 
----
+
 
 ## 🤝 Let's Connect
 
