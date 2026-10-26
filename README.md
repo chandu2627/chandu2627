@@ -142,16 +142,21 @@ Worked on insurance analytics during my Data Analyst internship at AiVariant.
 ## 💼 Experience
 
 ### Data Analyst Intern — AiVariant
-
 **Insurance Analytics | May 2025 – August 2025**
 
-- Gained practical exposure to insurance data analytics.
-- Worked in an analytics-focused internship environment.
+- Gained hands-on exposure to insurance data analytics and analytical workflows.
+- Developed an understanding of how data analytics supports insurance-related business insights.
+- Strengthened practical knowledge of data analysis and interpretation in an internship environment.
 
-*Add more specific responsibilities or measurable results only when they accurately reflect your work.*
+### Data Analyst Intern — Let's Grow More (LGM)
+**Virtual Internship | January 2026 – June 2026**
+
+- Participated in a virtual Data Analyst internship program to strengthen practical analytics skills.
+- Independently developed an **HR Attrition Analytics** project using Python, Pandas, exploratory data analysis, and Power BI.
+- Built an **IPL 2025 Business Analytics** project using SQL and Power BI.
+- Applied data analysis, visualization, and dashboard development techniques to explore datasets and communicate insights.
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
