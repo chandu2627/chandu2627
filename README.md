@@ -19,8 +19,10 @@
   <a href="https://github.com/chandu2627">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://chandumanikanta.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
 </p>
-
 ---
 
 ## 🙋‍♂️ About Me
